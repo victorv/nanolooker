@@ -50,7 +50,7 @@
     "find-process": "^1.4.7",
     "fs-extra": "^10.0.0",
     "ga-4-react": "^0.1.281",
-    "html5-qrcode": "github:mebjas/html5-qrcode#master",
+    "html5-qrcode": "2.3.8",
     "i18next": "^22.4.15",
     "i18next-browser-languagedetector": "^6.0.1",
     "leaflet": "^1.8.0",
