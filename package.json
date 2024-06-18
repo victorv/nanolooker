@@ -86,7 +86,7 @@
     "timeago-react": "^3.0.0",
     "use-deep-compare-effect": "^1.8.1",
     "websocket-reconnect": "^1.0.10",
-    "ws": "^7.5.7",
+    "ws": "^7.5.10",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
