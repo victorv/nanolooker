@@ -46,7 +46,7 @@
     "cors": "^2.8.5",
     "dot-object": "^2.1.4",
     "dotenv": "^8.2.0",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "find-process": "^1.4.7",
     "fs-extra": "^10.0.0",
     "ga-4-react": "^0.1.281",
